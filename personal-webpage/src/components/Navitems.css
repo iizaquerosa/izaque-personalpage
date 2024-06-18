@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: transparent;
+}
+
+.navitem{
+    margin-right: 90px;
+    color: rgb(60, 164, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+}
